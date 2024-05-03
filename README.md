@@ -1,28 +1,29 @@
-# Design-analisys-project-implemintation
+<!-- # Design-analisys-project-implemintation -->
+# Rent Car Project implemintation
 
 ## UI/UX
 [Figma](https://www.figma.com/file/tiM1uDym0dplgBfrEI3H4F/Car-Rental?type=design&node-id=0%3A1&mode=design&t=191fsEJWB9dyhGeM-1)
 ## Pert diagram
-[](assets/Pert.jpg)
+[Pert diagram](assets/Pert.jpg)
 ## Gante diagram
-[](assets/Gante.jpg)
+[Gante diagram](assets/Gante.jpg)
 ## DFD
-[](assets/DFD.jpg)
+[DFD](assets/DFD.jpg)
 ## State diagram
-[](assets/State.jpg)
+[State diagram](assets/State.jpg)
 ## Function diagram
-[](assets/FD.jpg)
+[Function diagram](assets/FD.jpg)
 ## Context diagram
-[](assets/Context.png)
+[Context diagram](assets/Context.png)
 ## Activity diagram
-[](assets/Activity.jpg)
+[Activity diagram](assets/Activity.jpg)
 ## Sequence diagram
-[](assets/Sequence.jpg)
+[Sequence diagram](assets/Sequence.jpg)
 ## Class diagram
-[](assets/Class.jpg)
+[Class diagram](assets/Class.jpg)
 ## ERD diagram
-[](assets/ERD.jpg)
+[ERD diagram](assets/ERD.jpg)
 ## Schema diagram
-[](assets/Schema.jpg)
+[Schema diagram](assets/Schema.jpg)
 ## Usecase diagram
-[](assets/Usecase.jpg)
+[Usecase diagram](assets/Usecase.jpg)
