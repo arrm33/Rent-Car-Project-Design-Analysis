@@ -3,26 +3,26 @@
 ## UI/UX
 [Figma](https://www.figma.com/file/tiM1uDym0dplgBfrEI3H4F/Car-Rental?type=design&node-id=0%3A1&mode=design&t=191fsEJWB9dyhGeM-1)
 ## Pert diagram
-[Pert](assets/Pert.jpg)
+[](assets/Pert.jpg)
 ## Gante diagram
-[Gante](assets/Gante.jpg)
+[](assets/Gante.jpg)
 ## DFD
-[DFD](assets/DFD.jpg)
+[](assets/DFD.jpg)
 ## State diagram
-[State](assets/State.jpg)
+[](assets/State.jpg)
 ## Function diagram
-[Function](assets/FD.jpg)
+[](assets/FD.jpg)
 ## Context diagram
-[Context](assets/Context.png)
+[](assets/Context.png)
 ## Activity diagram
-[Activity](assets/Activity.jpg)
+[](assets/Activity.jpg)
 ## Sequence diagram
-[Sequence](assets/Sequence.jpg)
+[](assets/Sequence.jpg)
 ## Class diagram
-[Class](assets/Class.jpg)
+[](assets/Class.jpg)
 ## ERD diagram
-[ERD](assets/ERD.jpg)
+[](assets/ERD.jpg)
 ## Schema diagram
-[Schema](assets/Schema.jpg)
+[](assets/Schema.jpg)
 ## Usecase diagram
-[Usecase](assets/Usecase.jpg)
+[](assets/Usecase.jpg)
