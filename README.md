@@ -1,5 +1,5 @@
 <!-- # Design-analisys-project-implemintation -->
-# Rent Car Project implemintation
+# Rent Car Project
 
 ## UI/UX
 ![UI/UX](assets/UI.png)
